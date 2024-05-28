@@ -1,1 +1,2 @@
 Archivo 2
+Otra linea en otra rama
